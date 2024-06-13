@@ -1,4 +1,3 @@
-    ```bash
 # beta 
 # WiFi Password Tester
 
