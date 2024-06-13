@@ -1,3 +1,4 @@
+# beta #
 # WiFi Password Tester
 
 Este script permite testar senhas para uma rede WiFi fornecendo o nome da rede, SSID ou endereço MAC.
